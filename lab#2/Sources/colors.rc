@@ -1,4 +1,4 @@
-#include "Scroll.h"
+#include "colors.h"
 #include "afxres.h"
 
 COLORSCRDLG DIALOG DISCARDABLE 16, 16, 120, 141

@@ -1,6 +1,7 @@
-#include "Scroll.h"
-#include <stdio.h>
-/*
+
+#include <windows.h>
+#include "colors.h"
+
 BOOL CALLBACK ColorScrDlg (HWND hDlg, UINT message,WPARAM wParam, LPARAM lParam)
 {
         static int iColor[3] ;
@@ -55,7 +56,4 @@ BOOL CALLBACK ColorScrDlg (HWND hDlg, UINT message,WPARAM wParam, LPARAM lParam)
                         }
                     return FALSE ;
 }
-HWND ShowScroll(HINSTANCE hInst, HWND hwnd){
-      return CreateDialog(hInst, TEXT ("ColorScrDlg"),hwnd, ColorScrDlg);
-}
-*/
+

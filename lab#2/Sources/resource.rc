@@ -1,7 +1,9 @@
-#include "resource.h"
+#include "resources.h"
 #include "afxres.h"
 
-IDD_INFOCHILD DIALOG DISCARDABLE  0, 0, 239, 66
+
+
+IDD_INFOCHILD DIALOG DISCARDABLE   0, 0, 239, 66
 STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
 CAPTION "Documentation"
 FONT 10, "Times New Roman"
@@ -11,3 +13,4 @@ BEGIN
     CTEXT           "This project was created by FAF-161 student",
                     IDC_STATIC, 16, 30, 144, 20
 END
+
