@@ -1,0 +1,5 @@
+C:\Users\XTreme.ws\Downloads\PKH_MyPaint\MyPaint01\MyPaint01\obj\Release\App.g.cs
+C:\Users\XTreme.ws\Downloads\PKH_MyPaint\MyPaint01\MyPaint01\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\XTreme.ws\Downloads\PKH_MyPaint\MyPaint01\MyPaint01\obj\Release\MyPaint01_MarkupCompile.cache
+C:\Users\XTreme.ws\Downloads\PKH_MyPaint\MyPaint01\MyPaint01\obj\Release\MyPaint01_MarkupCompile.lref
+C:\Users\XTreme.ws\Downloads\PKH_MyPaint\MyPaint01\MyPaint01\obj\Release\MyPaint01.csprojResolveAssemblyReference.cache
