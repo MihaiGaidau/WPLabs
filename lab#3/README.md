@@ -26,6 +26,7 @@ I chose to perform this laboratory work in C# , becaue is easy to implement meth
 I have used different techniques to draw , contruct lines , shapes, fill with colors and different thickness.<br>
 The user can use this Paint Application from drawing a line till draw a shape with different size and different color. Also , exist possibility to erase some lines , content from the workspace. After drawing something the user can save the image in some formats. 
 Another important function is to open existing image and move, rotate the figure in other place from initial.<br>
+Clicking on right button on mouse there are 3 options : Copy, Cut and Paste
 I would like to mention some classes that help me easy to draw figures , like: <br>
 * PathGeometry - which is contains all power of geometry and using this you can draw line , arc, bezier, polyline segment.
 * RotateTransform - it help me to rotate the figure.
