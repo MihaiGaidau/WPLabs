@@ -18,7 +18,7 @@ _Basics of Working with Mouse. GDI Primitives. Bezier Curve._
 - [x] Use mouse as an eraser of:
  - a fixed width (1 pt)
  - a adjustable width (2 pt)
-- [] Zoom in and out application working area using keyboard (2 pt)
+- [ ] Zoom in and out application working area using keyboard (2 pt)
 
 ## Result
 Implemented in C#<br>
